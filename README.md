@@ -146,7 +146,3 @@ A domain-specific environmental study. Validated high-frequency air pollution da
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerhussai230&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerhussai230&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
