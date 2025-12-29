@@ -52,20 +52,10 @@
 
 An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurring, this system anonymizes video streams *before* storage or transmission, ensuring strict GDPR compliance while maintaining zone occupancy analytics.
 
-<!-- ORIGINAL VIDEO -->
-<h4 align="center">Original Input (Raw Footage)</h4>
+<!-- ORIGINAL VIDEO & COMPARISON -->
 <div align="center">
-  <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/test_video_original.gif" width="70%" alt="Original Video">
-</div>
-<br>
-
-<!-- COMPARISON TABLE -->
-<div align="center">
-
-| **Mode A: Face Blur** | **Mode B: Body Blur** |
-| :---: | :---: |
-| <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/privacy_vision_demo_face.gif" width="100%"> | <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/privacy_vision_demo_body.gif" width="100%"> |
-
+  <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/test_video_original.gif" width="45%" alt="Original">
+  <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/privacy_vision_demo_face.gif" width="45%" alt="Processed">
 </div>
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/blob/main/README.md)
@@ -82,17 +72,57 @@ A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generatio
   <img src="https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search/assets/85198601/4c624170-1bdb-40a6-a031-3891a487080d" width="90%" alt="Architecture Diagram">
 </div>
 
-[**View Full Repository & Documentation**](https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search)
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search.git)
 
 ---
 
-### 3. Scientific & Data Engineering Portfolio
+### 3. AI Visitor Data Extractor
+**Domain:** Applied AI, OCR, Automation  
+**Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| **Analysis of PM Levels in Delhi** | **(Environmental Domain)** Validated heterogeneous air pollution data against meteorological records using Statistical Smoothing and Time-Series Analysis. | [**View Repo**](https://github.com/sameerhussai230/Analysis-of-PM-10-and-2.5-Levels_in_Delhi) |
-| **Dynamic ETL with Azure Fabric** | **(Data Engineering)** Architected a parameterized Lakehouse pipeline using Databricks & ADF for incremental loading of massive datasets. | [**View Repo**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF/blob/main/README.md) |
-| **AI Visitor Data Extractor** | **(Applied AI)** A React/FastAPI app using Llama-3 Vision to extract structured data from physical ID cards. | [**View Repo**](https://github.com/sameerhussai230/AI-Visitor-Data-Extractor-React-FastAPI/blob/main/README.md) |
+An AI-powered data entry automation system. Utilizes multimodal LLMs to extract structured data from physical ID cards and business cards with high accuracy, featuring a React frontend for human-in-the-loop validation.
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/AI-Visitor-Data-Extractor-React-FastAPI/blob/main/README.md)
+
+---
+
+### 4. Superset Embedded Analytics with RLS
+**Domain:** Data Visualization, Security, Web Engineering  
+**Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
+
+A secure embedded analytics architecture. Implemented dynamic Row-Level Security (RLS) via Superset's guest token API to enforce strict multi-tenant data segregation, ensuring users only see data relevant to their role within a single dashboard.
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/superset-embedded-rls-portfolio)
+
+---
+
+### 5. Azure Synapse Analytics: Serverless & Spark
+**Domain:** Cloud Data Engineering, Big Data  
+**Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
+
+A real-time analytics architecture utilizing Synapse Link. Optimized querying of massive NYC Taxi datasets using OpenRowSet and data pruning techniques, bridging the gap between operational NoSQL data and analytical SQL pools.
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Azure-Synapse-Analytics-Integrating-Serverless-SQL-Spark-Pools-and-Synapse-Link.git)
+
+---
+
+### 6. Dynamic ETL Workflow: Databricks & Delta Lake
+**Domain:** Big Data, ETL, Lakehouse Architecture  
+**Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
+
+A scalable Lakehouse pipeline designed for flexibility. Features parameterized notebooks for schema enforcement and automated incremental loading using Delta Lake's upsert capabilities, orchestrated via Azure Data Factory.
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF)
+
+---
+
+### 7. Analysis of Particulate Matter Levels in Delhi
+**Domain:** Environmental Science, Statistical Modeling  
+**Tech:** `Python (Pandas)` `SARIMA` `Statistical Smoothing`
+
+A domain-specific environmental study. Validated high-frequency air pollution data against public meteorological records using statistical smoothing to accurately model seasonal trends and pollutant variations in New Delhi.
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Analysis-of-PM-10-and-2.5-Levels_in_Delhi)
 
 <br>
 
