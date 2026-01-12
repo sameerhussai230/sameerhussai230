@@ -48,8 +48,9 @@
 
 **1. EcoSentinel: Multi-Spectral Satellite Pipeline**
 
-**Domain: **Geospatial Analytics, EUDR Compliance, Remote Sensing
-**Tech:** Sentinel-2 Planetary Computer Streamlit Parallel Computing
+**Domain:** Geospatial Analytics, EUDR Compliance, Remote Sensing
+**Tech:**  Sentinel-2 Planetary Computer Streamlit Parallel Computing
+
 An automated satellite auditing pipeline designed for EU Deforestation Regulation (EUDR) compliance. It tasks the Sentinel-2 constellation to retrieve real-time, cloud-filtered imagery and applies a parallelized Multi-Index Decision Tree (NDVI/NDWI) to detect vegetation stress and deforestation risks with pixel-level accuracy.
 <!-- DEMO GIFS -->
 <div align="center">
