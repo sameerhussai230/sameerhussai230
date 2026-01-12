@@ -46,7 +46,21 @@
 
 ## 🚀 Featured Research & Engineering Projects
 
-### 1. PrivacyVision GDPR: Enterprise Secure Analytics
+**1. EcoSentinel: Multi-Spectral Satellite Pipeline**
+
+**Domain: **Geospatial Analytics, EUDR Compliance, Remote Sensing
+**Tech:** Sentinel-2 Planetary Computer Streamlit Parallel Computing
+An automated satellite auditing pipeline designed for EU Deforestation Regulation (EUDR) compliance. It tasks the Sentinel-2 constellation to retrieve real-time, cloud-filtered imagery and applies a parallelized Multi-Index Decision Tree (NDVI/NDWI) to detect vegetation stress and deforestation risks with pixel-level accuracy.
+<!-- DEMO GIFS -->
+<div align="center">
+<img src="https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/gif/presets_values_amazon.gif?raw=true" width="45%" alt="Amazon Risk Analysis">
+<img src="https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/gif/Draw_any_region_gloabaly.gif?raw=true" width="45%" alt="Interactive Area Drawing">
+</div>
+**[View Full Repository & Documentation]**([README.md](https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/README.md))
+
+
+
+### 2. PrivacyVision GDPR: Enterprise Secure Analytics
 **Domain:** Computer Vision, Data Privacy, GDPR Compliance  
 **Tech:** `YOLO11` `ByteTrack` `Kafka` `Docker`
 
@@ -62,7 +76,7 @@ An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurri
 
 ---
 
-### 2. AI SQL Architect: RAG for Complex Databases
+### 3. AI SQL Architect: RAG for Complex Databases
 **Domain:** Generative AI, Knowledge Retrieval, NLP  
 **Tech:** `LLMs` `LangChain` `ChromaDB` `Azure OpenAI`
 
@@ -76,7 +90,7 @@ A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generatio
 
 ---
 
-### 3. AI Visitor Data Extractor
+### 4. AI Visitor Data Extractor
 **Domain:** Applied AI, OCR, Automation  
 **Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
@@ -86,7 +100,7 @@ An AI-powered data entry automation system. Utilizes multimodal LLMs to extract 
 
 ---
 
-### 4. Superset Embedded Analytics with RLS
+### 5. Superset Embedded Analytics with RLS
 **Domain:** Data Visualization, Security, Web Engineering  
 **Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
 
@@ -96,7 +110,7 @@ A secure embedded analytics architecture. Implemented dynamic Row-Level Security
 
 ---
 
-### 5. Azure Synapse Analytics: Serverless & Spark
+### 6. Azure Synapse Analytics: Serverless & Spark
 **Domain:** Cloud Data Engineering, Big Data  
 **Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
 
@@ -106,7 +120,7 @@ A real-time analytics architecture utilizing Synapse Link. Optimized querying of
 
 ---
 
-### 6. Dynamic ETL Workflow: Databricks & Delta Lake
+### 7. Dynamic ETL Workflow: Databricks & Delta Lake
 **Domain:** Big Data, ETL, Lakehouse Architecture  
 **Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
 
@@ -116,7 +130,7 @@ A scalable Lakehouse pipeline designed for flexibility. Features parameterized n
 
 ---
 
-### 7. Analysis of Particulate Matter Levels in Delhi
+### 8. Analysis of Particulate Matter Levels in Delhi
 **Domain:** Environmental Science, Statistical Modeling  
 **Tech:** `Python (Pandas)` `SARIMA` `Statistical Smoothing`
 
