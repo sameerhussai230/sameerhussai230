@@ -58,7 +58,7 @@ An automated satellite auditing pipeline designed for EU Deforestation Regulatio
 <img src="https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/gif/Draw_any_region_gloabaly.gif?raw=true" width="45%" alt="Interactive Area Drawing">
 </div>
 
-**[View Full Repository & Documentation]**(https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/README.md)
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/README.md)
 
 
 
