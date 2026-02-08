@@ -47,7 +47,7 @@
 ## 🚀 Featured Research & Engineering Projects
 <br>
 
-**1. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine**
+### 1. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine
 
 **Domain:** Quantitative Finance, Carbon Markets (EU ETS), Energy Systems Modeling
 **Tech:**  `Python` `Streamlit` `Plotly` `Pandas` `Ember API` `ETL Pipelines`
@@ -57,13 +57,14 @@ A quantitative financial-energy analytics platform designed to forecast Carbon P
 <!-- Architecture-Diagram -->
 <div align="center">
   <!-- -->
-  <img src="https://github.com/sameerhussai230/EU-ETS-Grid-Carbon-Analytics/blob/main/assets/images/architecture-diagram-EU-ETS-Grid-Carbon-Analytics.png" width="45%" alt="Market Scanner Dashboard">
+  <img src="https://github.com/sameerhussai230/EU-ETS-Grid-Carbon-Analytics/blob/main/assets/images/architecture-diagram-EU-ETS-Grid-Carbon-Analytics.png" width="100%" alt="Market Scanner Dashboard">
 </div>
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/EU-ETS-Grid-Carbon-Analytics)
 
 <br>
-**2. EcoSentinel: Multi-Spectral Satellite Pipeline**
+
+### 2. EcoSentinel: Multi-Spectral Satellite Pipeline
 
 **Domain:** Geospatial Analytics, EUDR Compliance, Remote Sensing
 **Tech:**  Sentinel-2 Planetary Computer Streamlit Parallel Computing
