@@ -45,8 +45,25 @@
 <br>
 
 ## 🚀 Featured Research & Engineering Projects
+<br>
 
-**1. EcoSentinel: Multi-Spectral Satellite Pipeline**
+**1. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine**
+
+**Domain:** Quantitative Finance, Carbon Markets (EU ETS), Energy Systems Modeling
+**Tech:**  `Python` `Streamlit` `Plotly` `Pandas` `Ember API` `ETL Pipelines`
+
+A quantitative financial-energy analytics platform designed to forecast Carbon Price volatility. It integrates heterogeneous datasets—**Physical Grid Generation** (Coal/Wind/Solar) and **Financial Compliance Logs** (EU ETS)—to identify "structural shorts." The engine analyzes the "Merit Order" effect, calculating how renewable intermittency (e.g., Dunkelflaute events) drives fossil-fuel reliance and demand for EU Allowances (EUAs), offering specific alpha signals for commodities trading.
+
+<!-- Architecture-Diagram -->
+<div align="center">
+  <!-- -->
+  <img src="https://github.com/sameerhussai230/EU-ETS-Grid-Carbon-Analytics/blob/main/assets/images/architecture-diagram-EU-ETS-Grid-Carbon-Analytics.png" width="45%" alt="Market Scanner Dashboard">
+</div>
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/EU-ETS-Grid-Carbon-Analytics)
+
+<br>
+**2. EcoSentinel: Multi-Spectral Satellite Pipeline**
 
 **Domain:** Geospatial Analytics, EUDR Compliance, Remote Sensing
 **Tech:**  Sentinel-2 Planetary Computer Streamlit Parallel Computing
@@ -64,7 +81,7 @@ An automated satellite auditing pipeline designed for EU Deforestation Regulatio
 
 
 
-### 2. PrivacyVision GDPR: Enterprise Secure Analytics
+### 3. PrivacyVision GDPR: Enterprise Secure Analytics
 **Domain:** Computer Vision, Data Privacy, GDPR Compliance  
 **Tech:** `YOLO11` `ByteTrack` `Kafka` `Docker`
 
@@ -80,7 +97,7 @@ An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurri
 
 ---
 
-### 3. AI SQL Architect: RAG for Complex Databases
+### 4. AI SQL Architect: RAG for Complex Databases
 **Domain:** Generative AI, Knowledge Retrieval, NLP  
 **Tech:** `LLMs` `LangChain` `ChromaDB` `Azure OpenAI`
 
@@ -94,7 +111,7 @@ A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generatio
 
 ---
 
-### 4. AI Visitor Data Extractor
+### 5. AI Visitor Data Extractor
 **Domain:** Applied AI, OCR, Automation  
 **Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
@@ -104,7 +121,7 @@ An AI-powered data entry automation system. Utilizes multimodal LLMs to extract 
 
 ---
 
-### 5. Superset Embedded Analytics with RLS
+### 6. Superset Embedded Analytics with RLS
 **Domain:** Data Visualization, Security, Web Engineering  
 **Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
 
@@ -114,7 +131,7 @@ A secure embedded analytics architecture. Implemented dynamic Row-Level Security
 
 ---
 
-### 6. Azure Synapse Analytics: Serverless & Spark
+### 7. Azure Synapse Analytics: Serverless & Spark
 **Domain:** Cloud Data Engineering, Big Data  
 **Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
 
@@ -124,7 +141,7 @@ A real-time analytics architecture utilizing Synapse Link. Optimized querying of
 
 ---
 
-### 7. Dynamic ETL Workflow: Databricks & Delta Lake
+### 8. Dynamic ETL Workflow: Databricks & Delta Lake
 **Domain:** Big Data, ETL, Lakehouse Architecture  
 **Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
 
@@ -134,7 +151,7 @@ A scalable Lakehouse pipeline designed for flexibility. Features parameterized n
 
 ---
 
-### 8. Analysis of Particulate Matter Levels in Delhi
+### 9. Analysis of Particulate Matter Levels in Delhi
 **Domain:** Environmental Science, Statistical Modeling  
 **Tech:** `Python (Pandas)` `SARIMA` `Statistical Smoothing`
 
