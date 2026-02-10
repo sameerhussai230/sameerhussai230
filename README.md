@@ -1,18 +1,18 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Data Engineer & Technical Lead | Cloud Data Architect</h3>
+  <h3>Senior Data Engineer & Technical Lead | Cloud Solution Architect</h3>
   
   <p align="center">
-    <b>Transforming complex raw data into Decision-Ready Intelligence for Carbon Markets, ESG, and Enterprise Analytics.</b>
+    <b>Architecting the Digital Backbone for Carbon Markets, Industrial AI, and Net-Zero Intelligence.</b>
   </p>
   
   <p align="center">
-    I am a <b>Microsoft Certified Data Engineer</b> and <b>domain expert</b> with a "Hybrid Profile" that bridges the gap between 
-    <b>Enterprise Cloud Engineering</b> and <b>Environmental Science</b>. 
+    I am a <b>Scientific Data Architect</b> and <b>Microsoft Certified Expert</b> operating at the convergence of 
+    <b>Earth System Sciences</b> and <b>Cloud-Native Engineering</b>.
     <br><br>
-    With a Master’s in <b>Environmental Engineering</b> and deep industrial expertise, I specialize in architecting 
-    <b>Scalable Lakehouse Solutions</b> (Azure Fabric/Databricks) and <b>High-Volume ETL Pipelines</b> that drive 
-    regulatory compliance, sustainability goals (Net-Zero), and operational efficiency.
+    Leveraging an M.Tech in <b>Environmental Engineering</b>, I design <b>Petabyte-Scale Lakehouse Architectures</b> 
+    (Azure Fabric, Databricks) and <b>Distributed Compute Workflows</b>. My mission is to translate complex physical data into 
+    governed, high-performance assets that drive <b>Regulatory Compliance</b> and <b>Strategic Alpha</b>.
   </p>
 
   <div align="center">
