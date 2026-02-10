@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Data Engineer & Technical Lead | Environmental Data Architect</h3>
+  <h3>Senior Data Engineer & Technical Lead | Cloud Data Architect</h3>
   
   <p align="center">
     <b>Transforming complex raw data into Decision-Ready Intelligence for Carbon Markets, ESG, and Enterprise Analytics.</b>
