@@ -90,7 +90,7 @@ An automated satellite auditing pipeline designed for EU Deforestation Regulatio
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/README.md)
 
-
+<br>
 
 ### 3. PrivacyVision GDPR: Enterprise Secure Analytics
 **Domain:** Computer Vision, Data Privacy, GDPR Compliance  
@@ -122,7 +122,19 @@ A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generatio
 
 ---
 
-### 5. AI Visitor Data Extractor
+### 5. Dynamic ETL Workflow: Databricks & Delta Lake
+**Domain:** Big Data, ETL, Lakehouse Architecture  
+**Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
+
+A scalable Lakehouse pipeline designed for flexibility. Features parameterized notebooks for schema enforcement and automated incremental loading using Delta Lake's upsert capabilities, orchestrated via Azure Data Factory.
+
+![Project_Architecture](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF/assets/85198601/dccb148d-5846-4791-8863-be1ce68bcffa)
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF)
+
+---
+
+### 6. AI Visitor Data Extractor
 **Domain:** Applied AI, OCR, Automation  
 **Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
@@ -132,7 +144,7 @@ An AI-powered data entry automation system. Utilizes multimodal LLMs to extract 
 
 ---
 
-### 6. Superset Embedded Analytics with RLS
+### 7. Superset Embedded Analytics with RLS
 **Domain:** Data Visualization, Security, Web Engineering  
 **Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
 
@@ -142,25 +154,16 @@ A secure embedded analytics architecture. Implemented dynamic Row-Level Security
 
 ---
 
-### 7. Azure Synapse Analytics: Serverless & Spark
+### 8. Azure Synapse Analytics: Serverless & Spark
 **Domain:** Cloud Data Engineering, Big Data  
 **Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
 
 A real-time analytics architecture utilizing Synapse Link. Optimized querying of massive NYC Taxi datasets using OpenRowSet and data pruning techniques, bridging the gap between operational NoSQL data and analytical SQL pools.
 
+![image](https://github.com/sameerhussai230/Unified_Data_Processing_Framework_on_Azure_Synapse/assets/85198601/c612723a-7256-4c6d-879d-93218dc44f80)
+
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/Azure-Synapse-Analytics-Integrating-Serverless-SQL-Spark-Pools-and-Synapse-Link.git)
 
----
-
-### 8. Dynamic ETL Workflow: Databricks & Delta Lake
-**Domain:** Big Data, ETL, Lakehouse Architecture  
-**Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
-
-A scalable Lakehouse pipeline designed for flexibility. Features parameterized notebooks for schema enforcement and automated incremental loading using Delta Lake's upsert capabilities, orchestrated via Azure Data Factory.
-
-[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF)
-
----
 
 ### 9. Analysis of Particulate Matter Levels in Delhi
 **Domain:** Environmental Science, Statistical Modeling  
