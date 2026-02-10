@@ -1,17 +1,19 @@
+
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Technical Lead (Data & AI) | M.Tech Environmental Engineering</h3>
+  <h3>Senior Data Engineer & Technical Lead | Cloud Architect (Azure & Fabric)</h3>
   
   <p align="center">
-    <b>Bridging the gap between Earth System Sciences, Industrial AI, and Scalable Engineering.</b>
+    <b>Architecting Scalable Data Mesh, Industrial AI, and Next-Gen Analytics.</b>
   </p>
   
   <p align="center">
-    I am a <b>Scientific AI Researcher</b> and <b>Data Architect</b> with a unique "Hybrid Profile." 
-    I combine academic rigor in <b>Environmental Systems Modeling</b> (M.Tech) with 5+ years of industrial experience building 
-    <b>Digital Twins</b>, <b>GenAI Architectures</b>, and <b>Big Data Pipelines</b>. 
+    I am a <b>Microsoft Certified Data Engineer</b> and <b>Scientific Researcher</b> with a "Hybrid Profile" bridging the gap between 
+    complex physical sciences and modern cloud engineering. 
     <br><br>
-    <i>My goal is to leverage <b>Scientific Machine Learning</b> and <b>Cloud Engineering</b> to solve complex physical domain challenges.</i>
+    With a Master’s in <b>Environmental Engineering</b> and deep industrial expertise, I specialize in building 
+    <b>End-to-End Lakehouse Architectures</b> (Azure Fabric/Databricks), optimizing <b>Big Data Pipelines</b>, and integrating 
+    <b>Generative AI</b> to solve real-world domain challenges.
   </p>
 
   <div align="center">
@@ -29,17 +31,25 @@
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
-  <!-- Cloud & Big Data -->
+  <!-- Row 1: Cloud & Big Data Platforms (The Core) -->
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <br>
-  <!-- AI & ML -->
+  
+  <!-- Row 2: Languages, Databases & Engineering (The Tools) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <br>
+  
+  <!-- Row 3: AI, Science & Domain Specifics (The "X-Factor") -->
   <img src="https://img.shields.io/badge/Generative%20AI-A020F0?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Vision-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
   <img src="https://img.shields.io/badge/Scientific%20Modeling-4B8BBE?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESG%20%26%20Climate%20Analytics-00C853?style=for-the-badge&logo=google-earth&logoColor=white" />
 </div>
 
 <br>
