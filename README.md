@@ -1,19 +1,18 @@
-
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Data Engineer & Technical Lead | Cloud Architect </h3>
+  <h3>Senior Data Engineer & Technical Lead | Environmental Data Architect</h3>
   
   <p align="center">
-    <b>Architecting Scalable Data Mesh, Industrial AI, and Next-Gen Analytics.</b>
+    <b>Transforming complex raw data into Decision-Ready Intelligence for Carbon Markets, ESG, and Enterprise Analytics.</b>
   </p>
   
   <p align="center">
-    I am a <b>Microsoft Certified Data Engineer</b> and <b>Scientific Researcher</b> with a "Hybrid Profile" bridging the gap between 
-    complex physical sciences and modern cloud engineering. 
+    I am a <b>Microsoft Certified Data Engineer</b> and <b>domain expert</b> with a "Hybrid Profile" that bridges the gap between 
+    <b>Enterprise Cloud Engineering</b> and <b>Environmental Science</b>. 
     <br><br>
-    With a Master’s in <b>Environmental Engineering</b> and deep industrial expertise, I specialize in building 
-    <b>End-to-End Lakehouse Architectures</b> (Azure Fabric/Databricks), optimizing <b>Big Data Pipelines</b>, and integrating 
-    <b>Generative AI</b> to solve real-world domain challenges.
+    With a Master’s in <b>Environmental Engineering</b> and deep industrial expertise, I specialize in architecting 
+    <b>Scalable Lakehouse Solutions</b> (Azure Fabric/Databricks) and <b>High-Volume ETL Pipelines</b> that drive 
+    regulatory compliance, sustainability goals (Net-Zero), and operational efficiency.
   </p>
 
   <div align="center">
