@@ -101,6 +101,8 @@ An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurri
 <img src="https://raw.githubusercontent.com/sameerhussai230/PrivacyVision-GDPR-Enterprise_Secure_Analytics/main/PrivacyVision_GDPR.svg" width="60%" />
 </div>
 
+---
+
 <!-- ORIGINAL VIDEO & COMPARISON -->
 <div align="center">
   <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/test_video_original.gif" width="45%" alt="Original">
