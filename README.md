@@ -98,6 +98,8 @@ An automated satellite auditing pipeline designed for EU Deforestation Regulatio
 
 An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurring, this system anonymizes video streams *before* storage or transmission, ensuring strict GDPR compliance while maintaining zone occupancy analytics.
 
+<img src="https://raw.githubusercontent.com/sameerhussai230/PrivacyVision-GDPR-Enterprise_Secure_Analytics/main/PrivacyVision_GDPR.svg" width="100%" />
+
 <!-- ORIGINAL VIDEO & COMPARISON -->
 <div align="center">
   <img src="https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/releases/download/assests/test_video_original.gif" width="45%" alt="Original">
