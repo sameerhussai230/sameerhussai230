@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Data Engineer & Technical Lead | Cloud Architect (Azure & Fabric)</h3>
+  <h3>Senior Data Engineer & Technical Lead | Cloud Architect </h3>
   
   <p align="center">
     <b>Architecting Scalable Data Mesh, Industrial AI, and Next-Gen Analytics.</b>
