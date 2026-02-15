@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBT-E25A1C?style=for-the-badge&logo=dbt&logoColor=blue" />
   <br>
   
   <!-- Row 2: Languages, Databases & Engineering (The Tools) -->
