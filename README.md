@@ -3,14 +3,14 @@
   <h3>Senior Data Engineer & Technical Lead | Cloud Solution Architect</h3>
   
   <p align="center">
-    <b>Architecting the Digital Backbone for Carbon Markets, Industrial AI, and Net-Zero Intelligence.</b>
+    <b>Architecting the Digital Backbone for Modern Data Warehousing, Industrial AI, and Net-Zero Intelligence.</b>
   </p>
   
   <p align="center">
     I am a <b>Scientific Data Architect</b> and <b>Microsoft Certified Expert</b> operating at the convergence of 
-    <b>Earth System Sciences</b> and <b>Cloud-Native Engineering</b>.
+    <b> Modern Data Warehouse practices</b> and <b>Cloud-Native Engineering</b>.
     <br><br>
-    Leveraging an M.Tech in <b>Environmental Engineering</b>, I design <b>Petabyte-Scale Lakehouse Architectures</b> 
+   I design <b>Petabyte-Scale Lakehouse Architectures</b> 
     (Azure Fabric, Databricks) and <b>Distributed Compute Workflows</b>. My mission is to translate complex physical data into 
     governed, high-performance assets that drive <b>Regulatory Compliance</b> and <b>Strategic Alpha</b>.
   </p>
