@@ -57,7 +57,47 @@
 ## 🚀 Featured Research & Engineering Projects
 <br>
 
-### 1. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine
+### 1. Dynamic ETL Workflow: Databricks & Delta Lake
+**Domain:** Big Data, ETL, Lakehouse Architecture  
+**Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
+
+A scalable Lakehouse pipeline designed for flexibility. Features parameterized notebooks for schema enforcement and automated incremental loading using Delta Lake's upsert capabilities, orchestrated via Azure Data Factory.
+
+![Project_Architecture](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF/assets/85198601/dccb148d-5846-4791-8863-be1ce68bcffa)
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF)
+
+--
+
+
+### 2. Azure Synapse Analytics: Serverless & Spark
+**Domain:** Cloud Data Engineering, Big Data  
+**Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
+
+A real-time analytics architecture utilizing Synapse Link. Optimized querying of massive NYC Taxi datasets using OpenRowSet and data pruning techniques, bridging the gap between operational NoSQL data and analytical SQL pools.
+
+![image](https://github.com/sameerhussai230/Unified_Data_Processing_Framework_on_Azure_Synapse/assets/85198601/c612723a-7256-4c6d-879d-93218dc44f80)
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Azure-Synapse-Analytics-Integrating-Serverless-SQL-Spark-Pools-and-Synapse-Link.git)
+
+---
+
+
+### 3. AI SQL Architect: RAG for Complex Databases
+**Domain:** Generative AI, Knowledge Retrieval, NLP  
+**Tech:** `LLMs` `LangChain` `ChromaDB` `Azure OpenAI`
+
+A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generation (RAG) to inject database schema context into the LLM, reducing hallucination and allowing users to query complex relational databases using natural language.
+
+<div align="center">
+  <img src="https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search/assets/85198601/4c624170-1bdb-40a6-a031-3891a487080d" width="90%" alt="Architecture Diagram">
+</div>
+
+[**View Full Repository & Documentation**](https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search.git)
+
+--
+
+### 4. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine
 
 **Domain:** Quantitative Finance, Carbon Markets (EU ETS), Energy Systems Modeling
 **Tech:**  `Python` `Streamlit` `Plotly` `Pandas` `Ember API` `ETL Pipelines`
@@ -74,7 +114,7 @@ A quantitative financial-energy analytics platform designed to forecast Carbon P
 
 <br>
 
-### 2. EcoSentinel: Multi-Spectral Satellite Pipeline
+### 5. EcoSentinel: Multi-Spectral Satellite Pipeline
 
 **Domain:** Geospatial Analytics, EUDR Compliance, Remote Sensing
 **Tech:**  Sentinel-2 Planetary Computer Streamlit Parallel Computing
@@ -92,7 +132,7 @@ An automated satellite auditing pipeline designed for EU Deforestation Regulatio
 
 <br>
 
-### 3. PrivacyVision GDPR: Enterprise Secure Analytics
+### 6. PrivacyVision GDPR: Enterprise Secure Analytics
 **Domain:** Computer Vision, Data Privacy, GDPR Compliance  
 **Tech:** `YOLO11` `ByteTrack` `Kafka` `Docker`
 
@@ -112,35 +152,10 @@ An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurri
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/PrivacyVision-GDPR-Enterprise-Secure-Analytics/blob/main/README.md)
 
----
-
-### 4. AI SQL Architect: RAG for Complex Databases
-**Domain:** Generative AI, Knowledge Retrieval, NLP  
-**Tech:** `LLMs` `LangChain` `ChromaDB` `Azure OpenAI`
-
-A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generation (RAG) to inject database schema context into the LLM, reducing hallucination and allowing users to query complex relational databases using natural language.
-
-<div align="center">
-  <img src="https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search/assets/85198601/4c624170-1bdb-40a6-a031-3891a487080d" width="90%" alt="Architecture Diagram">
-</div>
-
-[**View Full Repository & Documentation**](https://github.com/sameerhussai230/AI-SQL-Architect-Integrating-Large-Language-Models-and-Vector-Search.git)
 
 ---
 
-### 5. Dynamic ETL Workflow: Databricks & Delta Lake
-**Domain:** Big Data, ETL, Lakehouse Architecture  
-**Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
-
-A scalable Lakehouse pipeline designed for flexibility. Features parameterized notebooks for schema enforcement and automated incremental loading using Delta Lake's upsert capabilities, orchestrated via Azure Data Factory.
-
-![Project_Architecture](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF/assets/85198601/dccb148d-5846-4791-8863-be1ce68bcffa)
-
-[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Dynamic_ETL_Workflow_with_Azure_DataBricks_Delta_Lake_and_ADF)
-
----
-
-### 6. AI Visitor Data Extractor
+### 7. AI Visitor Data Extractor
 **Domain:** Applied AI, OCR, Automation  
 **Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
@@ -150,7 +165,7 @@ An AI-powered data entry automation system. Utilizes multimodal LLMs to extract 
 
 ---
 
-### 7. Superset Embedded Analytics with RLS
+### 8. Superset Embedded Analytics with RLS
 **Domain:** Data Visualization, Security, Web Engineering  
 **Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
 
@@ -158,17 +173,7 @@ A secure embedded analytics architecture. Implemented dynamic Row-Level Security
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/superset-embedded-rls-portfolio)
 
----
 
-### 8. Azure Synapse Analytics: Serverless & Spark
-**Domain:** Cloud Data Engineering, Big Data  
-**Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
-
-A real-time analytics architecture utilizing Synapse Link. Optimized querying of massive NYC Taxi datasets using OpenRowSet and data pruning techniques, bridging the gap between operational NoSQL data and analytical SQL pools.
-
-![image](https://github.com/sameerhussai230/Unified_Data_Processing_Framework_on_Azure_Synapse/assets/85198601/c612723a-7256-4c6d-879d-93218dc44f80)
-
-[**View Full Repository & Documentation**](https://github.com/sameerhussai230/Azure-Synapse-Analytics-Integrating-Serverless-SQL-Spark-Pools-and-Synapse-Link.git)
 
 
 ### 9. Analysis of Particulate Matter Levels in Delhi
