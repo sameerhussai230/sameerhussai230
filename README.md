@@ -1,18 +1,18 @@
 <div align="center">
   <h1 align="center">Hi, I'm Sameer Hussain 👋</h1>
-  <h3>Senior Data & AI Engineer | Technical Lead | Cloud Solution Architect</h3>
+  <h3>Senior Data Scientist, AI Architect & Data Engineering Technical Lead</h3>
   
   <p align="center">
     <b>Architecting the Digital Backbone for Modern Data Warehousing, Generative AI, and Net-Zero Intelligence.</b>
   </p>
   
   <p align="center">
-    I am a <b>Scientific Data Architect</b> and <b>AI Engineer</b> operating at the convergence of 
-    <b>Modern Data Engineering</b>, <b>Cloud-Native Architecture</b>, and <b>Artificial Intelligence</b>.
+    I am a <b>3x Microsoft Certified (DP-700 • DP-203 • PL-300)</b> professional operating at the convergence of 
+    <b>Modern Data Engineering</b>, <b>Advanced Data Science</b>, and <b>Cloud-Native AI</b>.
     <br><br>
-    I design <b>Petabyte-Scale Lakehouse Architectures</b> (Azure Fabric, Databricks) utilizing the <b>Medallion Architecture</b> to bridge the gap between Data Engineering and Data Science. My mission is to translate complex physical data into governed, high-performance assets that drive <b>Regulatory Compliance</b> and <b>Strategic Alpha</b>.
+    I design <b>Petabyte-Scale Lakehouse Architectures</b> using <b>Azure Fabric, Databricks, and Snowflake</b>. By leveraging the <b>Medallion Architecture</b> with <b>dbt and Airflow</b>, I bridge the gap between industrial-scale data engineering and high-performance intelligence. My mission is to translate complex environmental data into governed assets that drive <b>Regulatory Compliance</b> and <b>Strategic Alpha</b>.
     <br><br>
-    With deep expertise in <b>Generative AI (LLMs)</b>, <b>Computer Vision</b>, and <b>MLOps</b>, I specialize in architecting scalable <b>RAG systems</b> and <b>agentic workflows</b> using LangChain, CrewAI, and Azure OpenAI. I am highly experienced in deploying end-to-end ML pipelines with <b>MLflow</b> for rigorous experiment tracking and model governance.
+    With an <b>M.Tech in Environmental Systems Modeling</b>, I specialize in <b>Generative AI (RAG & Agentic workflows)</b>, <b>Vision AI (YOLO)</b>, and <b>Geospatial Analytics</b>. I am highly experienced in orchestrating <b>MLOps</b> lifecycles with <b>MLflow</b>, ensuring that every model—from XGBoost forecasting to LLM agents—is scalable, ethical, and production-ready.
   </p>
 
   <div align="center">
@@ -31,31 +31,33 @@
 
 <div align="center">
   <!-- Row 1: Cloud & Big Data Platforms (The Core) -->
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/DBT-FF69B4?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <br>
   
   <!-- Row 2: AI, Machine Learning & MLOps (The Intelligence) -->
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20(RAG)-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF9900?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vision%20AI%20(YOLO)-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <br>
 
   <!-- Row 3: Languages, Databases & Engineering (The Tools) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20%26%20NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20%26%20T--SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20BI%20(DAX)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <br>
   
   <!-- Row 4: Science & Domain Specifics (The "X-Factor") -->
-  <img src="https://img.shields.io/badge/Scientific%20Modeling-4B8BBE?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESG%20%26%20Climate%20Analytics-00C853?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/M.Tech%20Systems%20Modeling-4B8BBE?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geospatial%20AI-00C853?style=for-the-badge&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESG%20Analytics-006400?style=for-the-badge&logo=leaf&logoColor=white" />
 </div>
 
 <br>
