@@ -209,7 +209,7 @@ A domain-specific environmental study. Validated high-frequency air pollution da
 | **Python for Time Series Data Analysis** | *Udemy* | [**Verify**](https://www.udemy.com/certificate/UC-aae3d3f5-0763-4141-a40f-85e3c3fbd31c/) |
 | **Azure Databricks & Spark for Data Engineers** | *Udemy* | [**Verify**](https://www.udemy.com/certificate/UC-6225053b-c750-4b0f-aad6-146b6b5687ff/) |
 | **Databases and SQL for Data Science** | *IBM* | [**Verify**](https://www.coursera.org/account/accomplishments/verify/GQHP4V5EL3GC) |
-
+| **IELTS Academic - Band 7.0 (CEFR Level C1 - Advanced)** | British Council / IDP | [**Verify**](https://drive.google.com/file/d/1WGPT2M9zLLj1Tqu_TgT1RRbs5yLfwg_f/view?usp=sharing)|
 </div>
 
 <br>
