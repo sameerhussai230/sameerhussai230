@@ -122,18 +122,52 @@ A quantitative financial-energy analytics platform designed to forecast Carbon P
 
 <br>
 
-### 5. EcoSentinel: Multi-Spectral Satellite Pipeline
+### 5. EcoSentinel: Agentic RAG & Multi-Spectral Satellite Pipeline
 
-**Domain:** Geospatial Analytics, EUDR Compliance, Remote Sensing
-**Tech:**  Sentinel-2 Planetary Computer Streamlit Parallel Computing
+**Domain:** Geospatial Analytics, EUDR Compliance, AI Agents, Legal RAG  
+**Tech:** Sentinel-2, LangGraph, ChromaDB, Planetary Computer, Streamlit, Parallel Computing  
 
-An automated satellite auditing pipeline designed for EU Deforestation Regulation (EUDR) compliance. It tasks the Sentinel-2 constellation to retrieve real-time, cloud-filtered imagery and applies a parallelized Multi-Index Decision Tree (NDVI/NDWI) to detect vegetation stress and deforestation risks with pixel-level accuracy.
+An AI-driven geospatial framework designed for EU Deforestation Regulation (EUDR) compliance. It tasks the Sentinel-2 constellation to retrieve real-time, cloud-filtered imagery and applies a parallelized Multi-Index Decision Tree (NDVI/NDWI) to detect deforestation risks with pixel-level accuracy. The pipeline then feeds these forensic metrics into a **LangGraph-powered Legal RAG Agent** (backed by ChromaDB) to autonomously draft and generate PDF compliance audits referencing specific EU legal articles.
+
+<details>
+<summary><b>⚙️ View System Architecture</b></summary>
+
+```mermaid
+graph TD
+    User[User Input: Region & Date] -->|Trigger| App[Streamlit Interface]
+    
+    subgraph "Data Acquisition Layer"
+        App -->|Query| STAC[Microsoft Planetary Computer]
+        STAC -->|Download L2A| Raw[Raw Satellite Bands]
+    end
+    
+    subgraph "Processing Core"
+        Raw -->|ThreadPool| Process[WaterStressAnalyzer]
+        Process -->|Calc Indices| NDVI[Vegetation Health]
+        Process -->|Calc Indices| Stress[Stress Index]
+        Stress -->|JSON Stats| Metrics[Forensic Metrics]
+    end
+    
+    subgraph "Legal Intelligence Agent"
+        Metrics -->|Input| Agent[LangGraph Agent]
+        KB[(ChromaDB: EUDR Laws)] -->|Retrieve Context| Agent
+        Agent -->|LLM Inference| Draft[Legal Verdict]
+    end
+    
+    subgraph "Reporting Layer"
+        Draft -->|Format| PDF[PDF Report Generator]
+        Process -->|HighRes Img| PDF
+        PDF -->|Download| Final[Forensic Audit Report.pdf]
+    end
+```
+</details>
+<br>
+
 <!-- DEMO GIFS -->
 <div align="center">
 <img src="https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/gif/presets_values_amazon.gif?raw=true" width="45%" alt="Amazon Risk Analysis">
 <img src="https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/gif/Draw_any_region_gloabaly.gif?raw=true" width="45%" alt="Interactive Area Drawing">
 </div>
-
 
 
 [**View Full Repository & Documentation**](https://github.com/sameerhussai230/ecosentinel-multispectral-eudr/blob/main/README.md)
