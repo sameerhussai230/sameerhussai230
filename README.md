@@ -63,9 +63,52 @@
 <br>
 
 ## 🚀 Featured Research & Engineering Projects
+
+### 1. SecureData Agentic Zero-Trust Pipeline
+**Domain:** Data Security, Agentic AI, LLMs, Text-to-SQL Analytics  
+**Tech:** `Python` `Streamlit` `LangChain` `Groq API` `Pandas` `SQLite`
+
+An intelligent data pipeline that safely ingests sensitive enterprise data, automatically masks Personally Identifiable Information (PII) using intelligent rule-based safeguards, and empowers business users to execute natural language "Text-to-SQL" analytics. The LangChain agent operates exclusively in a sanitized Medallion "Gold" database, ensuring 100% data privacy and isolation from LLMs.
+
+<details>
+<summary><b>⚙️ View System Architecture</b></summary>
+
+```mermaid
+graph TD
+    subgraph Phase 1: Ingestion & Storage
+        A[Data Sources: Custom CSV / Generators] -->|Contains Raw PII| B[(🔴 Bronze DB: SQLite)]
+    end
+
+    subgraph Phase 2: Intelligent Masking Pipeline
+        B -.-> C[Data Masking Agent]
+        C -->|Validates against config.py Safeguards| D{PII Detection Engine}
+        D -->|Masks Names, Emails, SSN, etc.| E[Sanitized Data]
+        D -->|Preserves Dimensions & Metrics| E
+    end
+
+    subgraph Phase 3: Zero-Trust Analytics
+        E -->|Safe Migration| F[(🟢 Gold DB: SQLite)]
+        G[LLM: Dynamic Question Generator] <-->|Reads Schema + 1 Row| F
+        H[Business User] -->|Clicks Suggestion / Types Query| I[LangChain SQL Agent]
+        I <-->|Read-Only SQL Execution| F
+        I -->|Actionable Analytics| H
+    end
+
+    style B fill:#ffcccb,stroke:#ff0000,stroke-width:2px
+    style F fill:#d4edda,stroke:#28a745,stroke-width:2px
+    style C fill:#cce5ff,stroke:#007bff
+    style I fill:#fff3cd,stroke:#ffc107
+```
+</details>
 <br>
 
-### 1. Dynamic ETL Workflow: Databricks & Delta Lake
+[**🚀 Try Live App Demo**](https://safedata-zero-trust-agentic-pipeline-dorajpqeg5vqcrz4l2sboj.streamlit.app/) | [**View Full Repository & Documentation**](https://github.com/sameerhussai230/safedata-zero-trust-agentic-pipeline/)
+
+
+---
+<br>
+
+### 2. Dynamic ETL Workflow: Databricks & Delta Lake
 **Domain:** Big Data, ETL, Lakehouse Architecture  
 **Tech:** `Azure Databricks` `PySpark` `Delta Lake` `ADF`
 
@@ -78,7 +121,7 @@ A scalable Lakehouse pipeline designed for flexibility. Features parameterized n
 --
 
 
-### 2. Azure Synapse Analytics: Serverless & Spark
+### 3. Azure Synapse Analytics: Serverless & Spark
 **Domain:** Cloud Data Engineering, Big Data  
 **Tech:** `Azure Synapse` `Cosmos DB` `Serverless SQL` `Synapse Link`
 
@@ -91,7 +134,7 @@ A real-time analytics architecture utilizing Synapse Link. Optimized querying of
 ---
 
 
-### 3. AI SQL Architect: RAG for Complex Databases
+### 4. AI SQL Architect: RAG for Complex Databases
 **Domain:** Generative AI, Knowledge Retrieval, NLP  
 **Tech:** `LLMs` `LangChain` `ChromaDB` `Azure OpenAI`
 
@@ -105,7 +148,7 @@ A production-grade **Text-to-SQL** system. It uses Retrieval-Augmented Generatio
 
 --
 
-### 4. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine
+### 5. EU-ETS-Grid-Carbon-Analytics: Carbon Market Correlation Engine
 
 **Domain:** Quantitative Finance, Carbon Markets (EU ETS), Energy Systems Modeling
 **Tech:**  `Python` `Streamlit` `Plotly` `Pandas` `Ember API` `ETL Pipelines`
@@ -122,7 +165,7 @@ A quantitative financial-energy analytics platform designed to forecast Carbon P
 
 <br>
 
-### 5. EcoSentinel: Agentic RAG & Multi-Spectral Satellite Pipeline
+### 6. EcoSentinel: Agentic RAG & Multi-Spectral Satellite Pipeline
 
 **Domain:** Geospatial Analytics, EUDR Compliance, AI Agents, Legal RAG  
 **Tech:** Sentinel-2, LangGraph, ChromaDB, Planetary Computer, Streamlit, Parallel Computing  
@@ -174,7 +217,7 @@ graph TD
 
 <br>
 
-### 6. PrivacyVision GDPR: Enterprise Secure Analytics
+### 7. PrivacyVision GDPR: Enterprise Secure Analytics
 **Domain:** Computer Vision, Data Privacy, GDPR Compliance  
 **Tech:** `YOLO11` `ByteTrack` `Kafka` `Docker`
 
@@ -197,7 +240,7 @@ An engineered "Zero-Trust" hybrid anonymization pipeline. Unlike standard blurri
 
 ---
 
-### 7. AI Visitor Data Extractor
+### 8. AI Visitor Data Extractor
 **Domain:** Applied AI, OCR, Automation  
 **Tech:** `Llama Vision` `FastAPI` `React` `Docker`
 
@@ -207,7 +250,7 @@ An AI-powered data entry automation system. Utilizes multimodal LLMs to extract 
 
 ---
 
-### 8. Superset Embedded Analytics with RLS
+### 9. Superset Embedded Analytics with RLS
 **Domain:** Data Visualization, Security, Web Engineering  
 **Tech:** `Apache Superset` `FastAPI` `Docker` `Row-Level Security`
 
@@ -218,7 +261,7 @@ A secure embedded analytics architecture. Implemented dynamic Row-Level Security
 
 
 
-### 9. Analysis of Particulate Matter Levels in Delhi
+### 10. Analysis of Particulate Matter Levels in Delhi
 **Domain:** Environmental Science, Statistical Modeling  
 **Tech:** `Python (Pandas)` `SARIMA` `Statistical Smoothing`
 
