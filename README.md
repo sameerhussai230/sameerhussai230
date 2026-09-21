@@ -12,7 +12,10 @@
     <br><br>
     I design <b>Petabyte-Scale Lakehouse Architectures</b> using <b>Azure Fabric, Databricks, and Snowflake</b>. By leveraging the <b>Medallion Architecture</b> with <b>dbt and Airflow</b>, I bridge the gap between industrial-scale data engineering and high-performance intelligence. My mission is to translate complex environmental data into governed assets that drive <b>Regulatory Compliance</b> and <b>Strategic Alpha</b>.
     <br><br>
-    With an <b>M.Tech in Environmental Systems Modeling</b>, I specialize in <b>Generative AI (RAG & Agentic workflows)</b>, <b>Vision AI (YOLO)</b>, and <b>Geospatial Analytics</b>. I am highly experienced in orchestrating <b>MLOps</b> lifecycles with <b>MLflow</b>, ensuring that every model—from XGBoost forecasting to LLM agents—is scalable, ethical, and production-ready. Explore my full work at my <a href="https://sameerhussai230.github.io/"><b>Portfolio Website</b></a>.
+    With an <b>M.Tech in Environmental Systems Modeling</b>, I specialize in <b>Generative AI (RAG & Agentic workflows)</b>, <b>Vision AI (YOLO)</b>, and <b>Geospatial Analytics</b>. I am highly experienced in orchestrating <b>MLOps</b> lifecycles with <b>MLflow</b>, ensuring that every model—from XGBoost forecasting to LLM agents—is scalable, ethical, and production-ready.
+    <br><br>
+  <b>
+  Explore my full work at my <a href="https://sameerhussai230.github.io/"><b>Portfolio Website</b></a>.
   </p>
 
   <div align="center">
